@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 I am a Back-end development expert with more than 3 years of experience in this field. 
-I can quickly create APIs for websites using Nestjs, PostgreSQL.
+I can quickly create APIs for websites using Nestjs, PostgreSQL, MySQL, SQL Server.
 
 * 🌍  I'm based in Bangkok.
 * ✉️  You can contact me at [jakkahan.c@outlook.com](mailto:jakkahan.c@outlook.com)
